@@ -1,0 +1,39 @@
+
+sudo pacman -Syu
+
+sudo pacman -S bspwm sxhkdrc polibar rofi dunst ranger mpd ncmpcpp alsa-utils sof-firmware alsa-firmware picom pamixer feh imagemagick xorg-xdpyinfo thunar ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-terminus-nerd xclip bat
+
+
+
+##yay ttf-material-design-icons-desktop
+
+##linux-lts linux-lts-headers
+##sudo grub-mkconfig -o /boot/grub/grub.cfg
+##sudo pacman -S nvidia nvidia-settings nvidia-utils cuda opencl-nvidia vdpauinfo clinfo
+
+#Este si
+#sudo pacman -S nvidia nvidia-settings nvidia-utils cuda vulkan-icd-loader
+
+sudo pacman glfw zsh
+
+chsh <name>
+password:
+new shell: /bin/zsh # y posteriormente logout
+
+sudo pacman -S fzf maim
+
+sudo pacman -S xorg-xinput pavucontrol
+
+sudo pacman -S libwebp webp-pixbuf-loader
+
+sudo pacman -S dnsmasq
+
+sudo pacman hostapd
+sudo pacman -S iptables-nft
+
+sudo pacman -S pipewire pipewire-pulse pipewire-audio pipewire-alsa pipewire-jack
+
+systemctl --user enable --now pipewire pipewire-pulse
+
+pactl info | grep "Server Name"
+
