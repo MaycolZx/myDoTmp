@@ -1,0 +1,1098 @@
+{
+  "courses": [
+    {
+      "courseName": "Liderazgo",
+      "questions": [
+        {
+          "pregunta": "Que son los objetivos?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Respuesta",
+            "otherOption": [
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Como plantear un objetivo?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Respuesta",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que significan las siglas SMART?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Respuesta",
+            "otherOption": [
+              "None",
+              "None",
+              "Ninguna de las anteriores"
+            ]
+
+          }
+        },
+        {
+          "pregunta": "Que significa especifico?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Quien, Que, Cuando, Donde, Por que",
+            "otherOption": [
+              "None",
+              "Sientes, Por que, Que crees",
+              "Que"
+            ]
+
+          }
+        },
+        {
+          "pregunta": "Que significa Medible",
+          "respuesta": {
+            "opcion": "B",
+            "respO": "Deben de ser cuantificables, disponer de indicaciones y metricas que nos permitan hacer un seguimiento",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+
+          }
+        },
+        {
+          "pregunta": "Que significa Alcanzable?",
+          "respuesta": {
+            "opcion": "B",
+            "respO": "Los objetivos deben de ser realistas y alcanzables dentro de los recursos y limitaciones disponibles. Deben representar un desafio pero ser factibles. Establecer objetivos inalcanzables puede ser demotivador",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que significa relevante?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Los objetivos tienen que ser pertinentes y relacionados con los valores, necesidades y objetivos mas amplios de la persona que los establece. Deben tener un proposito claro y contribuir al logro de metas grandes.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+
+          }
+        },
+        {
+          "pregunta": "Que significa Time-bound?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Los objetivos deben de tener un marco de tiempo establecido. Este proporciona un sentido de urgencia y ayuda a evitar la procastinacion. Ademas, permite evaluar si se ha cumplido el objetivo dentro del periodo previsto.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Como plantear un buen obejtivo?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Respuesta",
+            "otherOption": [
+              ""
+            ]
+          }
+        },
+        {
+          "pregunta": "Como caminar a tus metas",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "1. Motivate(Para que?),2. Necesitas tiempo,3. Actua como si fuera la primera vez(usa la mente del principiante),4. No te etiquetes negativamente,5. Planifica(Que,como,cuando,donde),6. Cambia tus habitos(es mas facil sustituir un habito que no te gusta que simplemente empezar por uno nuevo),7. Cuidado con los refuerzos positivos(Licencia moral,el refuerzo esta bien, pero siempre pensando que no todo esta hecho),8. Proyecta tus objetivos en imagenes,9. Tus objetivos,por etapas(valora cada paso porque cada uno de ellos te acerca a la meta), 10. Actua(No hay nada seguro excepto la muerte, el momento perfecto no existe , ese momento es ahora)",
+            "otherOption": [
+              ""
+            ]
+          }
+        },
+        {
+          "pregunta": "En el peligro del silencio cuales son los 4 principios que siguen sus estudiantes:",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "1. Lee criticamente, 2. Escribe consientemente, 3.Habla con claridad, 4. Di tu verdad.",
+            "otherOption": [
+              "El silencio es el residuo del miedo, es morderte la lengua, es el aire que se retira de tu pecho porque no se siente seguro en tus pulmones, es el sonido despues de que la soga ya esta tensa, es quemar,son las cadenas, el privilegio el dolor."
+            ]
+          }
+        },
+        {
+          "pregunta": "Anhelo vs Deseo(explica)",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Respuesta",
+            "otherOption": [
+              ""
+            ]
+          }
+        },
+        {
+          "pregunta": "Cuantas veces te ha cambiado la vida una pregunta",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Respuesta",
+            "otherOption": [
+              ""
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es la mayeutica?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Respuesta",
+            "otherOption": [
+              ""
+            ]
+          }
+        },
+        {
+          "pregunta": "Que generan las preguntas?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "",
+            "otherOption": [
+              "Conciencia y responsabilidad (Re-conocerse)",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Quitarse los sesgos",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "",
+            "otherOption": [
+              "No sabes lo que es mejor para el cochee, no sabes lo que necesita, no jusguez, solo escucha y mantente dentro de la carrera.",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es la duda metodica, y duda esceptica ?",
+          "respuesta": {
+            "opcion": "C",
+            "respO": "",
+            "otherOption": [
+              "La duda metodica existe en el plano de la teoria, instrumento hacia la verdad, es un punto de partida; mientras que la duda esceptica es un estado permanente, no se afirma nada,no se puede llegar a la verdad.",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que buscan las preguntas poderosas?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "",
+            "otherOption": [
+              "Buscan un pensamiento proactivo y centrado,atencion y observacion. Necesito que el cochee sepa que tiene la informacion necesaria.",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que tipo de preguntas poderosas existen?",
+          "respuesta": {
+            "opcion": "C",
+            "respO": "",
+            "otherOption": [
+              "None",
+              "None",
+              "Descriptivas,Reflexivas,Perspectiva."
+            ]
+          }
+        },
+        {
+          "pregunta": "Que son las preguntas cerradas y las preguntas abiertas?",
+          "respuesta": {
+            "opcion": "C",
+            "respO": "",
+            "otherOption": [
+              "None",
+              "None",
+              "Las preguntas cerradas limitan la reflexion y el autoconocimiento, reduce la conversacion y el descubrimiento, puede inducir o coincidir la respuesta. Las preguntas abiertas fomentan la autoexploracion, invita a la reflexion y descubrimiento, estimula el pensamiento critico."
+            ]
+          }
+        },
+        {
+          "pregunta": "Que preguntas deberias evitar?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "",
+            "otherOption": [
+              "Por que?(Porque),No crees que?(Pregunta ciguena),Has intentado?(Pregunta ciguena),No deberias?(Pregunta ciguena),Te has dado cuenta de que?(Consejo),Siempre te pasa esto?(Pregunta cerrada),De verdad cree que?(Pregunta ciguena),Estas seguro?(Pregunta ciguena)",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es la escucha activa y cuales son sus elementos clave?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "",
+            "otherOption": [
+              "Las preguntas solo funcionan si escuchamos activamente las respuestas.(Escuchar con atencion es un lujo que pocos experimentan), sus elementos son Lenguaje no verbal, tono de voz, reflejar y parafrasear.",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es el lenguaje no verbal?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "",
+            "otherOption": [
+              "Observar gestos, postura, y expresiones faciales",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es el tono de voz?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "",
+            "otherOption": [
+              "Identificar emociones a traves del tono.",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es reflejar y parafrasear?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Repetir lo que el cochee dice para demostrar que lo has entendido.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que no es el couching?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "El couching no es adivinar ni presuponer las necesidades del otro.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es el positivismo toxico?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Esta relacionanda con aquellas personas que no expresan sus emociones negativas, que eniven sus emociones negativas con un todo va a estar bien , hay que ser positivos todo el tiempo; basicamente no reconcen que hay adversidades en esta vida.No solo afecta a las personas que la padecen sino a las personas que las rodean, haciendo sentir culpable a todos a quellos que no tienen su positivimo.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Para que sirve la comunicacion?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Recordemos que el lenguaje y el mundo estan conectados.La comunicacion es una herramiento, humana, cultural, contextualizada, intencional, y por lo tanto, no neutral, siempre que se comunica se comunica para algo, con una finalidad.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Del lenguaje corporal , que significa tocarse la nariz ? ",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Puede significar que la persona esta mintiendo o que esta enfadada y o molesta por algo.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Del lenguaje corporal, que significa falsa sonrisa?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Es signo de incomodidad(Sonrisa de Ducheme)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Del lenguaje corporal, que significa asentir con la cabeza?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Se se realiza varias veces y de manera muy rapida, insinua que ya no quiere escuchar mas.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Del lenguaje corporal, que significa rascarse el cuello?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Refleja inseguridad en lo que esta diciendo",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Del lenguaje corporal, que significa cruzar las piernas?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Puede indicar una actitud cerrada",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Del lenguaje corporal, que significa encogerse de hombros?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Hace referencia a no entender lo que esta ocurriendo.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Del lenguaje corporal, que significa cubrirse la boca?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Significa inseguridad o la necesidad de tranquilizarse porque la persona esta nerviosa.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Del lenguaje corporal, que significa tocarse la oreja?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Puede indicar que una persona piense que la otra le oculta algo.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Del lenguaje corporal, que significa imitacion de gestos?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Es una senal de empatia, conexion y rapport.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es la confianza?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Puente invisible que nos conecta con la otra persona, donde creemos que va actuar de buena fe y no nos va a fallar,(Quien eres?Que sabes?)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        }
+
+        ,
+        {
+          "pregunta": "Sobre la confianza a que se refiere quien eres?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Tiene que ver con el caracter,Integridad,valores y principios, etica y buenas intenciones.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Sobre la confianza a que se refiere el que sabes",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Se basa en tu capacidad para hacer bien las cosas. Conocimiento, experiencia o habilidades.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Como lo puedo aplicar al coaching?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "1. Contruye confianza desde quien eres(Se autentico,escucha activamente,etica),2. Demuestra confianza en tus habilidades(Preparacion,herramientas y tecnicas,resultados),3. Lee el lenguaje corporal del coachee(Senales de apertura,senales de tension,espejo sutil)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que no es el coaching?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Terapia,consultoria,mentoring,capaccitacion-asesoria",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Cuales son los desafios que enfrentan en el coaching?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Desafios tecnicos(Se curan o resuelven, complejidad), y Desafios adaptativos(alta complejidad, conversacion y escucha empatica)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Por que el coaching es una disciplina muy adecuada para nuestros tiempos?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Por el contexto(Cambios,era de la informacion), por la generacion(Milenials y centennials, metodologia idonea), por su eficiencia(Atractividad,prestigio y aceptacion a nivel personal y ejecutivo)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es el coaching?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "El arte y habito de creer en la persona.Es la relacion profecional que debe darse de manera continua, ayudando al coachee a conseguir resultados extraordinarios en distintos aspectos de su vida.(El coachee necesita volverse conciente y responsable.Transforma al coachee en un experto en su vida y trabajo que es digno y talentoso)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Vicios por excenlecia(Concupiscencia)(Libertad-virtud de caridad)",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Placer absolutizado,poder absolultizado,tener absolutizado.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Cual es la estructura de una sesion?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Rapport, Objetivo, Explorar, Opciones, Compromiso(ROEOC)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es rapport?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Confianza(empatizar),para demostrar que somos integros y confiables, incluso antes que competentes(30% tecnica y 70% autenticidad y confiabilidad)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es el objetivo?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Caracteristicas(Concreto, especifico,medible,positivo,plausible,organiza tus recursos,alcanzable por ti,visualiza las consecuencias,descubre el valor detras del objetivo.)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es explorar?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Ir mas alla del objetivo y del problema(Empaparte de la realidad del coachee)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que son opciones?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Alternativas(Para alcanzar una meta,siempre hay mas de una solucion)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es el compromiso?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Tarea(Acuerdos)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Errores en una sesion",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Asumir que es una terapia, analizar desde tu optica, dar consejos,asumir rol positivo, no es retroalimentacion.(No escuches desde tu mapa, porque no es acerca del coach)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Distorciones(Ver-Actuar)",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Seleccion negativa y positiva(Punto negro en la pared, sacar una buena nota), generalizacion(Experias pasadas), maginificacion y minificacion(Estornudar en tiempos de covid), personalizacion(Atribuir que por algun tema personal me detuvieron), dicotomia o absolutista(Maestria en navarra), sobre generalizacion(Nunca, siempre,todos, nadie)",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Cuales son los indicadores?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Emocion,cuerpo y lenguaje.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es el test de DISC?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Mide las tendencias de comportamiento obsevable.Dominante,Influyente,Estable,Consiente",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Otra definicion para DISC?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Lenguaje que manifestamos en la forma que actuamos, la tendencia de comportamiento, permite conocernos mejor.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es la D de Dominante?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Directo, determinado y resolutivo.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es la I de Influyente?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Impulsivo, cooperativo y entusiasta.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es la S de Estable?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Servicial y sincero.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "que es la C de Conciente?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Diplomatico,prudente y analitico.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Test de DISC",
+          "respuesta": {
+            "opcion": "Z",
+            "respO": "https://coach2grow.es/wp-content/uploads/2024/06/test-metodologia-disc.jpg",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es la humildad?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "La humildad es la virtud de reconocer que los talentos y aptitudes son dones de Dios, mientras que la magnanimidad es la virtud de realizar grandes obras.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que es la magnanimidad?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "La magnanimidad es la grandeza de ánimo, mientras que la humildad es la virtud de reconocer la grandeza de los demás. Ambas son virtudes que están ligadas y que constituyen un ideal de dignidad y grandeza. ",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Y como se relacionan la magnanimidad y la humildad?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "La humildad y la magnanimidad son virtudes que están intrínsecamente ligadas y constituyen un solo ideal: el de la dignidad y la grandeza del hombre.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Caracter y temperamento?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Desarrollar caracter es poder dominar el temperamento.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        },
+        {
+          "pregunta": "Que antonimos reciben la humildad y la magnanimidad?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "De la humildad pueden ser: Soberbia, vanidad,arrogancia. Y de la magnanimidad son: Mezquindad, Pusilanimidad.",
+            "otherOption": [
+              "None",
+              "None",
+              "None"
+            ]
+          }
+        }
+
+      ]
+    },
+    {
+      "courseName": "Redes",
+      "questions": [
+        {
+          "pregunta": "Que es el protocolo TCP?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Un protocolo de transporte confiable orientado a conexion",
+            "otherOption": [
+              "Un protocolo de enrutamiento de redes",
+              "Un protocolo de intercambio de datos de la capa de aplicacion"
+            ]
+          }
+        },
+        {
+          "pregunta": "Como se puede medir el desempeno de un protocolo",
+          "respuesta": {
+            "opcion": "C",
+            "respO": "RTT",
+            "otherOption": [
+              "TTR",
+              "FTP",
+              "TCP",
+              "UDP"
+            ]
+          }
+        },
+        {
+          "pregunta": "Cual es el servicio que ofrece TCP a las aplicaciones que lo invocan?",
+          "respuesta": {
+            "opcion": "B",
+            "respO": "Servicio de datagramas confiables",
+            "otherOption": [
+              "Servicio de datagramas no confiables",
+              "Servicio de paquetes sin conexion",
+              "Ninguna de las anteriores"
+            ]
+
+          }
+        },
+        {
+          "pregunta": "Cual es la razon por la que un paquete se pierde en la internet?",
+          "respuesta": {
+            "opcion": "B",
+            "respO": "NIC con el buffer lleno",
+            "otherOption": [
+              "Enrutamiento incorrecto",
+              "Congestion",
+              "Control de flujo"
+            ]
+
+          }
+        },
+        {
+          "pregunta": "Que informacion utiliza un proceso para identificar un proceso que se ejecuta en otro host?",
+          "respuesta": {
+            "opcion": "B",
+            "respO": "Puerto de origen",
+            "otherOption": [
+              "Direccion IP de origen",
+              "Direccion IP de destino",
+              "Puerto de destino"
+            ]
+
+          }
+        },
+        {
+          "pregunta": "En que capa de modelo OSI/ISO procesa el enrutamiento?",
+          "respuesta": {
+            "opcion": "B",
+            "respO": "Capa de red",
+            "otherOption": [
+              "Capa de aplicaciones",
+              "Capa de transporte",
+              "Capa de enlace de datos"
+            ]
+          }
+        },
+        {
+          "pregunta": "Cual es la capa de protocolo responsable que proporciona un servicio confiable en el mdoelo TCP/IP?",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Capa de transporte",
+            "otherOption": [
+              "Capa de red",
+              "Capa de enlace de datos",
+              "Capa de fisica"
+            ]
+
+          }
+        },
+        {
+          "pregunta": "Que capa de modelo OSI/ISO es responsable de la deteccion y correcion de errores de la transmision de datos?",
+          "respuesta": {
+            "opcion": "C",
+            "respO": "Capa de enlace de datos",
+            "otherOption": [
+              "Capa de sesion",
+              "Capa de transporte",
+              "Capa fisica"
+            ]
+          }
+        },
+        {
+          "pregunta": "Diagrame una NAT",
+          "respuesta": {
+            "opcion": "Z",
+            "respO": "https:www.researchgate.net/publication/334557400/figure/fig4/AS:782174127128576@1563496252774/Network-Address-Translation-NAT-Working-Principle.jpg",
+            "otherOption": [
+              ""
+            ]
+          }
+        },
+        {
+          "pregunta": "Diagrame el FTP activo y pasivo",
+          "respuesta": {
+            "opcion": "Z",
+            "respO": "https://image.slidesharecdn.com/protocoloftp-131104201611-phpapp02/85/Protocolo-ftp-13-320.jpg",
+            "otherOption": [
+              ""
+            ]
+          }
+        },
+        {
+          "pregunta": "Diagrame el HTTP v1.1",
+          "respuesta": {
+            "opcion": "Z",
+            "respO": "https://mishal.dev/static/c1b1e713d366c9b19f6556f6a255e9ab/62a6a/compare-http-11-2.png",
+            "otherOption": [
+              ""
+            ]
+          }
+        },
+        {
+          "pregunta": "Que cabeceras son indispensables en la estructura de solicitud en HTTP",
+          "respuesta": {
+            "opcion": "Z",
+            "respO": "https://plataforma.josedomingo.org/pledin/cursos/apache24/curso/u01/img/dia1.png",
+            "otherOption": [
+              ""
+            ]
+          }
+        },
+        {
+          "pregunta": "Diagrame HTTP1 vs HTTP1.1 vs HTTP2 vs HTTP3",
+          "respuesta": {
+            "opcion": "Z",
+            "respO": "https:i.ytimg.com/vi/UMwQjFzTQXw/maxresdefault.jpg",
+            "otherOption": [
+              "https : // i.ytimg.com/vi/a-sBfyiXysI/maxresdefault.jpg"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "courseName": "EDA",
+      "questions": [
+        {
+          "pregunta": "Cual es el DELETION del R-tree",
+          "respuesta": {
+            "opcion": "Y",
+            "respO": "P1[Buscar el nodo que contiene el registro] invocamos FindLeaf para localizar el nodo hoja L conteniendo E . Deterse si el registro no se encontro\nP2[Eliminar el registro] Eliminar E desde L\nP3[Propagar cambios] Invocamos CondenseTree, passing L\nP4[Acortar el arbol] Si el nodo raíz tiene solo un hijo después de que se haya ajustado el árbol, haga que el hijo sea la nueva raíz",
+            "otherOption": [
+              ""
+            ]
+          }
+        },
+        {
+          "pregunta": "La maldición de la dimensionalidad se refiere únicamente a la dificultad de extraer una muestra representativa de un conjunto de datos a medida que este va creciendo en dimensionalidad.",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Falso",
+            "otherOption": [
+              "Verdadero"
+            ]
+          }
+        },
+        {
+          "pregunta": "La maldición de la dimensionalidad se refiere únicamente a como las dimensiones hacen mas difícil el calculo de las distancias entre los datos a medida que estos crecen dimensionalmente.",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Falso",
+            "otherOption": [
+              "Verdadero"
+            ]
+          }
+        },
+        {
+          "pregunta": "La maldición de la dimensionalidad se refiere al conjunto de fenómenos que aparece tras el crecimiento exponencial del espacio de los datos.",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Verdadero",
+            "otherOption": [
+              "Falso"
+            ]
+          }
+        },
+        {
+          "pregunta": "La variante del R-tree propuesta por Green (Green approach) propone introducir el cálculo del perímetro de las regiones para que estas sean cada vez mas rectangulares, y así se evite la sobreposición. ",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Falso",
+            "otherOption": [
+              "Verdadero"
+            ]
+          }
+        },
+        {
+          "pregunta": "Son estrategias para ordenar los octantes de un octree\nI.",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "FVFFF",
+            "otherOption": [
+              "FFFFF",
+              "VVFFF"
+            ]
+          }
+        },
+        {
+          "pregunta": "Cuales de las siguientes Estructuras de datos utilizan la información geométrica (ordenamiento geométrico) de sus datos\n I.",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "FFVVF",
+            "otherOption": [
+              "VVFFV"
+            ]
+          }
+        },
+        {
+          "pregunta": "La función PickSeeds del árbol R (R-tree) tiene como objetivo encontrar cuales son los mejores objetos/datos para dividir en dos un nodo con overflow.",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Verdadero",
+            "otherOption": [
+              "Falso"
+            ]
+          }
+        },
+        {
+          "pregunta": "El Kd-tree es una estructura de datos que me permite indizar únicamente datos en 2d y 3d (d=dimensiones)",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Falso",
+            "otherOption": [
+              "Verdadero"
+            ]
+          }
+        },
+        {
+          "pregunta": "El pr-quadtree tiene como estrategia la partición del espacio, tomando como centro de dicha partición la posición del punto que se está insertando. ",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Falso",
+            "otherOption": [
+              "Verdadero"
+            ]
+          }
+        },
+        {
+          "pregunta": "El árbol R+ (R+ tree) toma en consideración el área, perímetro y la sobreposición de las nuevas regiones a ser creadas durante su función de split (Node splitting)",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Falso",
+            "otherOption": [
+              "Verdadero"
+            ]
+          }
+        },
+        {
+          "pregunta": "La función ReInsert del árbol R* (R* tree), es llamada únicamente una vez por cada nível del árbol siempre que el nodo con overflow no sea la raíz.",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Verdadero",
+            "otherOption": [
+              "Falso"
+            ]
+          }
+        },
+        {
+          "pregunta": "En el árbol R+ (R+ tree) el parámetro fill-factor me ayuda a limitar la cantidad de nodos que tendrá dicho nivel de árbol.",
+          "respuesta": {
+            "opcion": "A",
+            "respO": "Falso",
+            "otherOption": [
+              "Verdadero"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
